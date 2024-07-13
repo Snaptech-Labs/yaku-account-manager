@@ -1,0 +1,20 @@
+name: account_manager
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+repository: https://github.com/Snaptech-Labs/yaku-account-manager
+
+environment:
+  sdk: ^3.4.3
+
+# Add regular dependencies here.
+dependencies:
+  http: ^1.2.1
+  googleapis: ^13.2.0
+  google_sign_in: ^6.2.1
+  shared_preferences: ^2.2.3
+  flutter_secure_storage: ^9.2.2 
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
